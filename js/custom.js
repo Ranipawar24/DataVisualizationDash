@@ -142,6 +142,7 @@ var myChart = new Chart(ctx, {
     // onHover Example - It will work
     // onHover: function () {
     //   console.log("On Hover");
+
     // },
   },
 });
